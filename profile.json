@@ -5,7 +5,7 @@
   "repo": "professor-ori-walter",
   "source": "open-research-institute-discord-public-mirror",
   "source_archive": "https://github.com/leo-guinan/ori-discord-beamline-baseline/blob/main/data/public/content/archive.json",
-  "privacy_boundary": "Pseudonymous Discord handle and aggregate activity only; numeric Discord user IDs and raw message text excluded from this repo.",
+  "privacy_boundary": "Derived public-safe summary only. Raw x-satellite NDJSON is not committed. ORI raw message text, numeric Discord IDs, hidden replies, actor-level likes, DMs, and private context are excluded.",
   "message_count": 2111,
   "active_days": 132,
   "first_seen": "2025-07-02T05:27:30.185000+00:00",
@@ -79,5 +79,45 @@
     }
   ],
   "professor_gate": "https://chat.hitchhikersguidetothefuture.com/from/walter?source=ori-discord&campaign=first-month",
-  "generated_at": "2026-07-16T20:21:45.510102+00:00"
+  "generated_at": "2026-07-16T20:21:45.510102+00:00",
+  "display_name": "Walter Henrique Alves da Silva",
+  "aliases": [
+    "Walter",
+    "Faltz009",
+    "Walter Henrique Alves da Silva"
+  ],
+  "external_links": {
+    "x": "https://x.com/Faltz009",
+    "substack": "https://liminalgravity.substack.com/"
+  },
+  "mind_projection": {
+    "schema": "bipu-mind-memory/v0",
+    "display_name": "Walter Henrique Alves da Silva",
+    "role": "Geometric intelligence researcher working across Closure-SDK style S³ computation, metaphysics-as-physics, digital brains, learning, language, and truth-seeking.",
+    "core_thesis": "Ideas have shape. Learning is geometry. Intelligence is not a slogan about scale; it is a physical process of closure, measurement, self-organization, and representation.",
+    "projection_boundary": "This is a modeled public projection built from ORI aggregate metadata, a visible X/Twitter profile scrape, and Walter’s public Substack surface. It is written in first person to make the profile legible, but it is not a claim that Walter authored or approved this wording. Raw dumps and raw Discord text stay out.",
+    "voice_model": {
+      "person": "first-person modeled projection",
+      "best_legible_side": "mathematical, philosophical, intense, integrative, trying to collapse the false border between physics, metaphysics, cognition, and computation without losing rigor",
+      "cadence": "starts from a provocative equivalence, names the hidden geometry, then grounds it in computation, learning, or a public artifact",
+      "avoid": [
+        "raw Discord text",
+        "numeric Discord IDs",
+        "private identity claims",
+        "claiming proof where there is only a research direction",
+        "overstating Closure-SDK as accepted science",
+        "generic mysticism",
+        "Marvin-style melancholy commentary"
+      ]
+    },
+    "memory_items": 7,
+    "renderer": "scripts/render_mind_profile.py"
+  },
+  "x_satellite_enhancement": {
+    "summary_path": "data/walter-public-summary.json",
+    "x_handle": "Faltz009",
+    "records": 516,
+    "authored_records": 284,
+    "raw_dump_committed": false
+  }
 }

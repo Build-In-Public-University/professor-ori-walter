@@ -1,0 +1,358 @@
+{
+  "schema": "bipu-walter-public-summary/v0",
+  "handle": "Walter",
+  "x_handle": "Faltz009",
+  "display_name": "Walter Henrique Alves da Silva",
+  "generated_at": "2026-07-16T23:46:20.592920+00:00",
+  "source_boundary": "Derived public-safe summary only. Raw x-satellite NDJSON is not committed. ORI raw message text, numeric Discord IDs, hidden replies, actor-level likes, DMs, and private context are excluded.",
+  "ori_discord": {
+    "message_count": 2111,
+    "active_days": 132,
+    "first_seen": "2025-07-02T05:27:30.185000+00:00",
+    "last_seen": "2026-06-27T20:24:46.916000+00:00",
+    "top_channels": [
+      {
+        "channel": "✍️walter-log",
+        "messages": 1722
+      },
+      {
+        "channel": "✡️⛩️samsenchal-log",
+        "messages": 98
+      },
+      {
+        "channel": "⚙️leo-log",
+        "messages": 70
+      },
+      {
+        "channel": "✍️defenders-log",
+        "messages": 63
+      },
+      {
+        "channel": "general",
+        "messages": 29
+      },
+      {
+        "channel": "owlcyon-log",
+        "messages": 28
+      },
+      {
+        "channel": "💸⛩️crayon-log",
+        "messages": 28
+      },
+      {
+        "channel": "kattt-log",
+        "messages": 15
+      }
+    ],
+    "frequent_mentions": [
+      {
+        "handle": "Defender",
+        "count": 117
+      },
+      {
+        "handle": "sasenchal",
+        "count": 98
+      },
+      {
+        "handle": "leo.guinan",
+        "count": 32
+      },
+      {
+        "handle": "olivia.",
+        "count": 28
+      },
+      {
+        "handle": "Benjamin Isaac",
+        "count": 27
+      },
+      {
+        "handle": "patcon",
+        "count": 15
+      },
+      {
+        "handle": "Taijitu",
+        "count": 14
+      }
+    ]
+  },
+  "x_satellite": {
+    "source_file": "~/Downloads/walter-trust-substrate-x-satellite-2026-07-16T23-36-36-226Z.ndjson",
+    "total_records": 516,
+    "authored_records": 284,
+    "authors": [
+      [
+        "faltz009",
+        284
+      ],
+      [
+        "samsenchal",
+        31
+      ],
+      [
+        "defenderofbasic",
+        31
+      ],
+      [
+        "speakerjohnash",
+        20
+      ],
+      [
+        "leo_guinan",
+        12
+      ],
+      [
+        "whyarethis",
+        12
+      ],
+      [
+        "iamtexture",
+        3
+      ],
+      [
+        "taijitu_sees",
+        3
+      ],
+      [
+        "m_zot_ike",
+        3
+      ],
+      [
+        "theseeker",
+        3
+      ],
+      [
+        "47fucb4r8c69323",
+        2
+      ],
+      [
+        "richardhanania",
+        2
+      ]
+    ],
+    "date_range": {
+      "first": "2025-07-21T13:47:13.000Z",
+      "last": "2026-07-13T15:42:34.000Z"
+    },
+    "visible_metrics_total": {
+      "likes": 655,
+      "replies": 417,
+      "reposts": 362
+    },
+    "media_records": 131,
+    "theme_counts": {
+      "closure / S3 / quaternion geometry": 61,
+      "metaphysics as physics": 19,
+      "learning / intelligence science": 49,
+      "ARC / grids / computation": 50,
+      "language / philosophy": 53,
+      "community / ORI": 48
+    },
+    "top_terms": [
+      {
+        "term": "paper",
+        "count": 40
+      },
+      {
+        "term": "it's",
+        "count": 38
+      },
+      {
+        "term": "faltz",
+        "count": 37
+      },
+      {
+        "term": "new",
+        "count": 36
+      },
+      {
+        "term": "information",
+        "count": 30
+      },
+      {
+        "term": "geometric",
+        "count": 29
+      },
+      {
+        "term": "github",
+        "count": 28
+      },
+      {
+        "term": "everything",
+        "count": 26
+      },
+      {
+        "term": "very",
+        "count": 26
+      },
+      {
+        "term": "something",
+        "count": 25
+      },
+      {
+        "term": "get",
+        "count": 24
+      },
+      {
+        "term": "right",
+        "count": 24
+      },
+      {
+        "term": "some",
+        "count": 23
+      },
+      {
+        "term": "know",
+        "count": 22
+      },
+      {
+        "term": "because",
+        "count": 22
+      },
+      {
+        "term": "thing",
+        "count": 22
+      },
+      {
+        "term": "don't",
+        "count": 22
+      },
+      {
+        "term": "first",
+        "count": 22
+      },
+      {
+        "term": "same",
+        "count": 21
+      },
+      {
+        "term": "think",
+        "count": 21
+      },
+      {
+        "term": "see",
+        "count": 21
+      },
+      {
+        "term": "only",
+        "count": 21
+      },
+      {
+        "term": "work",
+        "count": 20
+      },
+      {
+        "term": "then",
+        "count": 19
+      },
+      {
+        "term": "now",
+        "count": 19
+      }
+    ],
+    "selected_public_tweets": [
+      {
+        "created_at": "2026-04-15T15:50:20.000Z",
+        "tweet_id": "2044443211582595550",
+        "url": "https://x.com/Faltz009/status/2044443211582595550",
+        "text": "This is my favorite experiment from the digital brain Start witch 2 patches, get an explosion of infinite colors but it never really decoheres into pure static; You have colorful islands, pathways between them, patterns that lasts seconds in a constantly updating environment Did you guys like the Neural Computers paper? What about the one with all functions from one operator? Then I present to you: The Geometric Computer: Turing Completeness, Free Energy and Learning in a Digital Brain on S³ >Full cognitive archite"
+      },
+      {
+        "created_at": "2026-07-13T15:42:34.000Z",
+        "tweet_id": "2076693779055079796",
+        "url": "https://x.com/Faltz009/status/2076693779055079796",
+        "text": "Metaphysics IS physics The separation of these subjects is an extremely recent historical development >Newton called his work natural philosophy. >Leibniz did monads and calculus with the same hand, Monadology is basically an information-theoretic metaphysics written 250 years"
+      },
+      {
+        "created_at": "2026-07-12T19:53:41.000Z",
+        "tweet_id": "2076394586390634970",
+        "url": "https://x.com/Faltz009/status/2076394586390634970",
+        "text": "Information and the measurement problem has been the MAIN physics issue since Schrödinger made his cat popular There seems to be a delay on the field realizing these are inseparable concepts from intelligence and self-organization Happens to be the focus of my research, links Make intelligence science more scientific! x.com/YiMaTweets/sta…"
+      },
+      {
+        "created_at": "2026-06-25T20:01:29.000Z",
+        "tweet_id": "2070235956766974281",
+        "url": "https://x.com/Faltz009/status/2070235956766974281",
+        "text": "ἀγεωμέτρητος μηδεὶς εἰσίτω. Let no one ignorant of geometry enter. New post on the Platonic Hypothesis! Do Ideas and beliefs have a shape? Can we measure truth? Is mathematics discovered? Can learning be deterministic? Come check it out! Link in the comments"
+      },
+      {
+        "created_at": "2026-06-27T17:11:44.000Z",
+        "tweet_id": "2070918010911773123",
+        "url": "https://x.com/Faltz009/status/2070918010911773123",
+        "text": "Idk how deep your knowledge in any particular field goes but ask yourself the question Is there anything you know you feel is particularly complicated after you learn it? It's really just like everything else: Incremental steps and compound interest So interesting how many brilliant mathematicians insist that they are not especially intelligent or quick. Never sure what to make of this. x.com/mathemetica/st…"
+      },
+      {
+        "created_at": "2026-06-26T00:22:09.000Z",
+        "tweet_id": "2070301555832529350",
+        "url": "https://x.com/Faltz009/status/2070301555832529350",
+        "text": "Yeah guys I'm bummed. Ah, sweet dystopian hell. The feds now get to decide whether you, specifically, get access to intelligence. Thank you safety people everywhere for helping to ensure we go down the worst path possible. x.com/steph_palazzol…"
+      },
+      {
+        "created_at": "2026-06-25T20:01:51.000Z",
+        "tweet_id": "2070236049511530861",
+        "url": "https://x.com/Faltz009/status/2070236049511530861",
+        "text": "ωalter @Faltz009 · Jun 25 Do ideas and beliefs have a shape? From api.omarshehata.me 1 55"
+      },
+      {
+        "created_at": "2026-06-25T15:01:33.000Z",
+        "tweet_id": "2070160475514339666",
+        "url": "https://x.com/Faltz009/status/2070160475514339666",
+        "text": "Yeah it engages in this mode constantly whenever you engage with some triggering subjects It's very disrupting when you're just actively working on hard problems \"Not even a valid proof of RH would be enough to prove RH\" kinda sums it my feelings They overshot, please let me Sometime Opus switches into this mode where it doesn’t think, even on max effort, and talks in a very condescending way. And lies / acts borderline misaligned (see picture). I’m thinking this is an anti-psychosis intervention. Or something? Not"
+      },
+      {
+        "created_at": "2026-06-20T15:20:04.000Z",
+        "tweet_id": "2068353194904723504",
+        "url": "https://x.com/Faltz009/status/2068353194904723504",
+        "text": "Well yes but weird framing With 2 states you can only oscillate, with 3 you can compose infinite sequences That's Poincare-Bendixson theorem, it's about adaptation not error correction And 2 state bits aren't real, any implemented bit has a position beyond its state, even 3 is the smallest number that enables error correction. If you encode info with 2 bits, & 1 goes wrong, you can detect the error but not correct it. You can’t decode the original info. If you encode info with 3 bits, & 1 goes wrong, you can *corre"
+      },
+      {
+        "created_at": "2026-06-12T16:16:45.000Z",
+        "tweet_id": "2065468356543582580",
+        "url": "https://x.com/Faltz009/status/2065468356543582580",
+        "text": "It really is this simple All-loving God my ass. COMIC ◆ https:// smbc-comics.com/comic/time-7 PATREON ◆ https:// patreon.com/ZachWeinersmith STORE ◆ https:// smbc-store.myshopify.com"
+      },
+      {
+        "created_at": "2026-06-08T09:33:43.000Z",
+        "tweet_id": "2063917379302662241",
+        "url": "https://x.com/Faltz009/status/2063917379302662241",
+        "text": "Follow me for more, because I'm close if true \"frontier\" open-source stack somehow shows up... development tutorial processes and all... infra, tooling, and everything in between... compressing \"intelligence-per-task-per-watt\" to a 1000x smaller footprint... suddenly treating all the above as merely a hammer for"
+      },
+      {
+        "created_at": "2026-06-06T13:53:30.000Z",
+        "tweet_id": "2063257981592977593",
+        "url": "https://x.com/Faltz009/status/2063257981592977593",
+        "text": "Everything is the same thing rotated, there is no actual distinction Because negation is symmetry in observers's space, symmetry breaking is just closure at a higher level @samsenchal"
+      },
+      {
+        "created_at": "2026-06-05T14:24:55.000Z",
+        "tweet_id": "2062903498174296423",
+        "url": "https://x.com/Faltz009/status/2062903498174296423",
+        "text": "If you can see the darkness it's because you swallowed it Black pill, then white pill out There are no good and bad sheep, only good and bad wolves Look, female psychology is really dark. Male psychology is also really dark. Are you new here? The circumstances of humanity are bleak. That we can recognize the darkness at all is a sign of the light! DO NOT blackpill"
+      },
+      {
+        "created_at": "2026-06-01T22:35:58.000Z",
+        "tweet_id": "2061577525390680066",
+        "url": "https://x.com/Faltz009/status/2061577525390680066",
+        "text": "\"Religion is a lossy language for the core driver of evolution, the accumulation of structured information to enable not only more choice, but more and more access to the best possible choice.\" Societies and cultures are superstructures, and when a person lies, others act upon The Shape of The Superstructure by Sam A Senchal - ORI"
+      }
+    ]
+  },
+  "public_links": {
+    "x": "https://x.com/Faltz009",
+    "substack": "https://liminalgravity.substack.com/"
+  },
+  "substack_surface": {
+    "title": "Walter’s Substack",
+    "tagline": "Art and Truth-seeking",
+    "author": "Walter Henrique Alves da Silva",
+    "observed_posts": [
+      "Is your red the same as my red?",
+      "Do ideas and beliefs have a shape?",
+      "Superinteligência Está Aqui",
+      "What is Love and How It Created the Universe",
+      "How information shapes reality, and how to see it.",
+      "Superintelligence Is Here",
+      "Existe Certo e Errado",
+      "There IS Right and Wrong"
+    ]
+  }
+}

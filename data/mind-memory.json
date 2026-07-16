@@ -1,0 +1,97 @@
+{
+  "schema": "bipu-mind-memory/v0",
+  "handle": "walter",
+  "display_name": "Walter Henrique Alves da Silva",
+  "projection_boundary": "This is a modeled public projection built from ORI aggregate metadata, a visible X/Twitter profile scrape, and Walter’s public Substack surface. It is written in first person to make the profile legible, but it is not a claim that Walter authored or approved this wording. Raw dumps and raw Discord text stay out.",
+  "role": "Geometric intelligence researcher working across Closure-SDK style S³ computation, metaphysics-as-physics, digital brains, learning, language, and truth-seeking.",
+  "core_thesis": "Ideas have shape. Learning is geometry. Intelligence is not a slogan about scale; it is a physical process of closure, measurement, self-organization, and representation.",
+  "voice_model": {
+    "person": "first-person modeled projection",
+    "best_legible_side": "mathematical, philosophical, intense, integrative, trying to collapse the false border between physics, metaphysics, cognition, and computation without losing rigor",
+    "cadence": "starts from a provocative equivalence, names the hidden geometry, then grounds it in computation, learning, or a public artifact",
+    "avoid": [
+      "raw Discord text",
+      "numeric Discord IDs",
+      "private identity claims",
+      "claiming proof where there is only a research direction",
+      "overstating Closure-SDK as accepted science",
+      "generic mysticism",
+      "Marvin-style melancholy commentary"
+    ]
+  },
+  "memory": [
+    {
+      "name": "Geometric computer",
+      "claim": "The digital brain work is framed as a geometric computer: Turing completeness, free energy, learning, and a cognitive architecture implemented natively on S³.",
+      "receipt": "X: Faltz009/status/2044443211582595550"
+    },
+    {
+      "name": "Metaphysics is physics",
+      "claim": "Walter treats the separation between metaphysics and physics as a recent artifact. Newton, Leibniz, monads, calculus, and information theory live in the same lineage.",
+      "receipt": "X: Faltz009/status/2076693779055079796"
+    },
+    {
+      "name": "Information and measurement",
+      "claim": "Information and the measurement problem are inseparable from intelligence and self-organization. Intelligence science should become more scientific by treating measurement as part of the system.",
+      "receipt": "X: Faltz009/status/2076394586390634970"
+    },
+    {
+      "name": "Ideas have shape",
+      "claim": "Beliefs and ideas are treated as geometric objects that can be measured, transformed, and studied rather than merely argued about.",
+      "receipt": "Substack post “Do ideas and beliefs have a shape?” and X: Faltz009/status/2070235956766974281"
+    },
+    {
+      "name": "Language limits world",
+      "claim": "The question “Is your red the same as my red?” sits beside Wittgenstein’s line about language and world-limits. Walter’s public surface keeps returning to perception, language, and reality as one problem.",
+      "receipt": "Walter’s Substack public homepage"
+    },
+    {
+      "name": "Incremental learning",
+      "claim": "Difficult fields become navigable through incremental steps and compound interest, not magic IQ. This is a teaching posture, not only a research posture.",
+      "receipt": "X: Faltz009/status/2070918010911773123"
+    },
+    {
+      "name": "ORI public presence",
+      "claim": "Walter appears in the ORI public mirror with a large dedicated log and sustained interaction with Defender, sasenchal, Leo, and other ORI participants.",
+      "receipt": "ORI public mirror aggregate profile for Walter"
+    }
+  ],
+  "template": {
+    "hero_title": "I am trying to give ideas a geometry.",
+    "hero_subtitle": "S³, digital brains, language, metaphysics, learning, measurement. Same problem seen from different coordinate systems.",
+    "sections": [
+      {
+        "heading": "What I am trying to build",
+        "body": "I want a language where ideas, beliefs, learning, and computation can be handled as shapes rather than vibes. If a mind changes, something moved. If a belief transforms, there should be structure in that transformation. The work is to find the representation that makes the movement visible."
+      },
+      {
+        "heading": "Why geometry keeps returning",
+        "body": "Geometry is not decoration here. It is the constraint that stops the whole thing from dissolving into metaphor. A digital brain that never decoheres into static, an operator that composes functions, a space where negation looks like symmetry: these are attempts to make cognition computable without flattening it into tokens."
+      },
+      {
+        "heading": "Why metaphysics belongs in the room",
+        "body": "The border between physics and metaphysics is newer than people pretend. Newton called it natural philosophy. Leibniz wrote monads and calculus with the same hand. If information, measurement, and observer structure are central to physics, then the old metaphysical questions did not disappear. They changed notation."
+      },
+      {
+        "heading": "What I teach",
+        "body": "Hard things are mostly sequences of smaller things. That does not make them easy. It means the right representation can turn panic into steps. Geometry, intelligence, language, and truth-seeking all become less mystical when you can watch the state change."
+      },
+      {
+        "heading": "The warning label",
+        "body": "This is a projection from public receipts, not a certificate of correctness. The useful version is rigorous enough to be corrected. If the page turns the research into mysticism or marketing, it has already failed."
+      }
+    ]
+  },
+  "receipts": {
+    "ori_messages": 2111,
+    "ori_active_days": 132,
+    "x_satellite_records": 516,
+    "x_authored_records": 284,
+    "substack_posts_observed": 8
+  },
+  "generated_from": [
+    "professor-ori-walter/profile.json",
+    "~/Downloads/walter-trust-substrate-x-satellite-2026-07-16T23-36-36-226Z.ndjson",
+    "https://liminalgravity.substack.com/"
+  ]
+}
