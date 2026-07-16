@@ -1,0 +1,83 @@
+{
+  "schema": "bipu-ori-professor-profile/v0",
+  "handle": "Walter",
+  "slug": "walter",
+  "repo": "professor-ori-walter",
+  "source": "open-research-institute-discord-public-mirror",
+  "source_archive": "https://github.com/leo-guinan/ori-discord-beamline-baseline/blob/main/data/public/content/archive.json",
+  "privacy_boundary": "Pseudonymous Discord handle and aggregate activity only; numeric Discord user IDs and raw message text excluded from this repo.",
+  "message_count": 2111,
+  "active_days": 132,
+  "first_seen": "2025-07-02T05:27:30.185000+00:00",
+  "last_seen": "2026-06-27T20:24:46.916000+00:00",
+  "top_channels": [
+    {
+      "channel": "✍️walter-log",
+      "messages": 1722
+    },
+    {
+      "channel": "✡️⛩️samsenchal-log",
+      "messages": 98
+    },
+    {
+      "channel": "⚙️leo-log",
+      "messages": 70
+    },
+    {
+      "channel": "✍️defenders-log",
+      "messages": 63
+    },
+    {
+      "channel": "general",
+      "messages": 29
+    },
+    {
+      "channel": "owlcyon-log",
+      "messages": 28
+    },
+    {
+      "channel": "💸⛩️crayon-log",
+      "messages": 28
+    },
+    {
+      "channel": "kattt-log",
+      "messages": 15
+    }
+  ],
+  "frequent_mentions": [
+    {
+      "handle": "Defender",
+      "count": 117
+    },
+    {
+      "handle": "sasenchal",
+      "count": 98
+    },
+    {
+      "handle": "leo.guinan",
+      "count": 32
+    },
+    {
+      "handle": "olivia.",
+      "count": 28
+    },
+    {
+      "handle": "Benjamin Isaac",
+      "count": 27
+    },
+    {
+      "handle": "unknown_user_4da81f082a",
+      "count": 17
+    },
+    {
+      "handle": "patcon",
+      "count": 15
+    },
+    {
+      "handle": "Taijitu",
+      "count": 14
+    }
+  ],
+  "professor_gate": "https://chat.hitchhikersguidetothefuture.com/from/walter?source=ori-discord&campaign=first-month",
+  "generated_at": "2026-07-16T20:21:45.510102+00:00"
+}
